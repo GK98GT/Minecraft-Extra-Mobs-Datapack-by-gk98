@@ -1,4 +1,4 @@
-tellraw @a {"text": "Extra Mobs By gk98 has successfully been loaded. Github/gk98gt to check for updates","color": "#0000FF"}
+tellraw @a {"text": "Extra Mobs By gk98 has successfully been loaded. github.com/GK98GT to check for updates","color": "#0000FF"}
 ### Mob Spawn ###
 scoreboard objectives add cm_example dummy
 
